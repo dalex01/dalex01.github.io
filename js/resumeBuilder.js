@@ -1,5 +1,5 @@
 var bio = {
-	"name": "Alexey Drozdov",
+	"name": "Al Dr",
 	"role": "Product Owner",
 	"contacts": {
 		"mobile": "+1-my-phone",
@@ -101,21 +101,21 @@ var education = {
 var work = {
 	"jobs": [
 	{
-		"employer": "DC BARS",
+		"employer": "Some company",
 		"title": "Product Owner",
 		"location": "Moscow",
 		"dates": "2010-2015",
 		"description": "Product ownership on Research and Development projects. Product & Project management on Training Course (Workshop) Development project."
 	},
 	{
-		"employer": "DC BARS",
+		"employer": "Some company",
 		"title": "Project Manager",
 		"location": "Moscow",
 		"dates": "2006-2010",
 		"description": "Managing different software verification projects in accordance with DO-178B."
 	},
 	{
-		"employer": "DC BARS",
+		"employer": "Some company",
 		"title": "Software Engineer",
 		"location": "Moscow",
 		"dates": "2004-2006",
@@ -325,7 +325,7 @@ displayEducation();
 
 bio.display();
 work.display();
-projects.display();
+//projects.display();
 education.display();
 displayMap();
 displayInternationalization();
